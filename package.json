@@ -1,0 +1,19 @@
+{
+  "name": "medium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aadi099/medium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aadi099/medium/issues"
+  },
+  "homepage": "https://github.com/Aadi099/medium#readme",
+  "description": ""
+}
